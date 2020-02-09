@@ -18,10 +18,10 @@ The documentation: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 The datasource: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 
 # Topics Coverd
-Exploratory data analysis (EDA) 
-OverSampling Teachinique (SMOTE) 
-Feature Importance
-HyperParameter Tuning 
-Random Forest Algorithem 
-Model Performance By Cross Validation - Split and Folding 
-Model Evaluation 
+## Exploratory data analysis (EDA) 
+## OverSampling Teachinique (SMOTE) 
+## Feature Importance
+## HyperParameter Tuning 
+## Random Forest Algorithem 
+## Model Performance By Cross Validation - Split and Folding 
+## Model Evaluation 
