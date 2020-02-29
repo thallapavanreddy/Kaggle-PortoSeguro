@@ -1,5 +1,5 @@
-# Kaggle-PortoSeguro
-Kaggle PortoSeguro's Safe Driver Prediction DataSet
+# PortoSeguro Insurence DataSet
+PortoSeguro's Safe Driver Prediction DataSet
 
 # Describe project
 Nothing ruins the thrill of buying a brand new car more quickly than seeing your new insurance bill. The sting’s even more painful when you know you’re a good driver. It doesn’t seem fair that you have to pay so much if you’ve been cautious on the road for years.
